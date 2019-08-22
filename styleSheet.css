@@ -1,0 +1,9 @@
+#contactCount, #cecLogo
+{
+	text-align: center;
+}
+
+.ui-select .ui-btn>span:not(.ui-li-count)
+{
+	white-space: normal !important;
+}
