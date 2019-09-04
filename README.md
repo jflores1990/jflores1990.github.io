@@ -6,7 +6,7 @@ CEC Contacts is a mobile web application that has been optimized for iOS and And
 While working at the California Energy Commission as a student, my supervisor desired a simple way to call or email his CEC colleagues using his smartphone. The California Energy Commission provided a public phone list on their desktop site, but it was difficult to use on a smartphone. The desktop phone list site also did not provide a smartphone user with the ability to make a call or compose an email without having to copy and paste the phone number or email address into the smartphone's built in phone or mail applications. After doing some research, I decided that a mobile web application seemed like the best solution, since it could be used by both iOS and Android phone users without having to sideload or download a native application onto their devices. 
 
 ## How to Use
-Visit [jflores1990.github.io](https://jflores1990.github.io) on an iOS or Android phone's web browser to use CEC Contacts. Adding the mobile website's link to a smartphone's home screen can also make CEC Contacts more convenient to use.
+Visit [jflores1990.github.io](https://jflores1990.github.io) on an iOS or Android phone web browser to use CEC Contacts. Adding the mobile website link to a smartphone's home screen can also make CEC Contacts more convenient to use, allowing it to  function more similarly to a native application.
 
 ## Technologies Used
 * HTML5
@@ -15,5 +15,5 @@ Visit [jflores1990.github.io](https://jflores1990.github.io) on an iOS or Androi
 * JQuery
 * JQuery Mobile
 
-## Authors
-* Jeremy Flores - August 2017
+## Author
+#### Jeremy Flores - August 2017
